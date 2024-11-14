@@ -1,0 +1,34 @@
+
+1. **`<!DOCTYPE html>`**: Este le dice al navegador que el archivo es un documento HTML5. Es como una etiqueta de inicio para que el navegador sepa cómo interpretar el archivo.
+
+2. **`<html lang="es"> ... </html>`**: La etiqueta `<html>` abre el documento HTML y contiene todo el contenido. `lang="es"` especifica que el idioma del contenido es español.
+
+3. **`<head> ... </head>`**: Esta sección contiene información “invisible” para el usuario pero importante para el navegador, como el título de la página y los enlaces a estilos. Aquí es donde configuras los “detalles” del documento.
+
+4. **`<meta charset="UTF-8">`**: Esta etiqueta dentro del `<head>` establece el tipo de caracteres que usará la página (UTF-8 es compatible con la mayoría de idiomas).
+
+5. **`<title>Estado de Colima</title>`**: Define el título de la página, que es el texto que ves en la pestaña del navegador.
+
+6. **`<style> ... </style>`**: Dentro de `<style>`, puedes escribir código CSS para darle estilo a tu página (colores, tamaños, etc.).
+
+7. **`<body> ... </body>`**: Todo lo que está dentro de `<body>` se muestra en la página. Contiene el contenido principal.
+
+8. **`<header> ... </header>`**: `<header>` es una sección donde puedes poner el título principal y cualquier encabezado o menú. Aquí pusimos el título “Estado de Colima”.
+
+9. **`<h1>Estado de Colima</h1>`**: `<h1>` es una etiqueta para encabezados principales (el título más grande). Se usa para destacar el título más importante de la página.
+
+10. **`<main> ... </main>`**: Dentro de `<main>`, colocamos el contenido principal, como texto y secciones informativas.
+
+11. **`<p> ... </p>`**: La etiqueta `<p>` se usa para párrafos. Es ideal para cualquier texto que quieras en bloques separados.
+
+12. **`<h2> ... </h2>`**: `<h2>` es un subtítulo, más pequeño que `<h1>`. Lo usamos para secciones importantes pero secundarias.
+
+13. **`<div> ... </div>`**: `<div>` crea un “bloque” que puedes usar para organizar elementos en grupo. Por ejemplo, en el código lo usamos para agrupar las fotos y botones de los lugares emblemáticos.
+
+14. **`<h3> ... </h3>`**: `<h3>` es un subtítulo aún más pequeño, para títulos menos importantes.
+
+15. **`<img src="URL" alt="Descripción">`**: `<img>` inserta una imagen. `src="URL"` es el enlace de la imagen y `alt="Descripción"` describe la imagen en caso de que no se pueda ver.
+
+16. **`<a href="URL" class="btn" target="_blank">Texto del Botón</a>`**: `<a>` crea un enlace. `href="URL"` indica a dónde lleva el enlace, `target="_blank"` abre el enlace en una nueva pestaña y `class="btn"` aplica estilos CSS a este enlace. Es ideal para botones.
+
+17. **`<footer> ... </footer>`**: `<footer>` define el pie de página, donde solemos poner información de contacto, créditos o enlaces adicionales.
