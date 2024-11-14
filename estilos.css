@@ -68,3 +68,11 @@
             padding: 20px;
             background-color: #f1f1f1;
         }
+        header{
+            background-image: url('URL_DE_LA_IMAGEN');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
